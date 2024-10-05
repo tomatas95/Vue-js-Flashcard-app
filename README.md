@@ -1,3 +1,5 @@
+A work by Saigunas & Me. I did front, Saigunas worked on backend, for educational purposes 2 years ago.
+
 # flashcards-webapp
 
 This project is a web application for creating and studying flashcards. It is built with Vue.js for the front-end and Spring Boot for the back-end. It uses JPA for database management, Maven for build automation, and MySQL for the database.
